@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-    background-image: url("../IMAGES/Background.jpg");
+    background-image: url("/IMAGES/Background.jpg");
     background-size: cover;
     font-family: Junegull, CoFo Peshka VF, Karol Sans, sans-serif;
     margin: 0;
@@ -585,15 +585,15 @@ table a:visited {
 .item-1 {
     z-index: 2;
     opacity: 1;
-    background:url("../IMAGES/Homepage-Image-1.jpg");
+    background:url("/IMAGES/Homepage-Image-1.jpg");
     background-size:cover;
 }
 .item-2{
-    background:url("../IMAGES/Homepage-Image-2.jpg");
+    background:url("/IMAGES/Homepage-Image-2.jpg");
     background-size:cover;
 }
 .item-3{
-    background: url("../IMAGES/Homepage-Image-3.jpg");
+    background: url("/IMAGES/Homepage-Image-3.jpg");
     background-size: cover;
 }
 *:target ~ .item-1 {

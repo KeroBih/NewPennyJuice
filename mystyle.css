@@ -465,6 +465,7 @@ article h3 {
     font-size: 14pt;
     padding: 0;
     line-height: 1.75;
+    margin-left: 0px;
 }
 article h4 {
     float: left;
